@@ -10,8 +10,8 @@
 ## 🔁 Progress Tracking
 
 I'll be updating this repo regularly with:
-- ✔️ Problem statement
-- ✅ Code
+-  Problem statement
+-  Code
 
 
 ## 📌 Why I'm doing this
